@@ -10,4 +10,4 @@
 [![VKontakte](https://img.shields.io/badge/-VKontakte-black?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/S1gor)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=ff69b4)](https://www.instagram.com/Semikin_32)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/S1gor17)
-[![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=Mail.ru&logoColor=blue)](https://mail.ru/i.semikin@list.ru)
+[![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=Mail.ru&logoColor=orange)](https://mail.ru/i.semikin@list.ru)
