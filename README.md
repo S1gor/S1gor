@@ -1,6 +1,7 @@
 ## Hi! My name is Igor and I'm a beginner developer
 
 ### *Languages*
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=blue)
 ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
 
 ### *Working environment*
